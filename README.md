@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KimingNs
-- 👀 I’m interested in Yii2/php , GoFrame/golang
-- 🌱 I’m currently learning goframe
+- 👀 I’m interested in Yii2/php , Django/python
+- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me qq648063762
+- 📫 How to reach me 
 
 <!---
 KimingNs/KimingNs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
